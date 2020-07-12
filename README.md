@@ -6,7 +6,7 @@ This is a Minecraft username tool written in Java. It allows you to enter a user
 
 Compile it yourself or [download the JAR file from releases](https://github.com/masondaniels/MCUT/releases/download/0.0.1/tracker.jar).
 Run the JAR file from the command line and enter the following to use:
-``java -jar track.jar -username <username>``
+``java -jar tracker.jar -username <username>``
 
 ![](https://i.imgur.com/4AZLDWg.gif)
 
